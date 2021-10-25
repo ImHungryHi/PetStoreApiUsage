@@ -8,8 +8,8 @@
 
 ## API usage
 1. GET /pet/{id} - find pet by id
-1. POST /pet - add new pet
 1. POST /pet/{id} - update pet with form data
+1. POST /pet - add new pet
 1. DELETE /pet/{id} - delete a pet by id
 
 ## Additional, not used
